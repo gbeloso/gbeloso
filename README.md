@@ -36,8 +36,8 @@
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+<a href="https://github.com/gbeloso" title="Perfil do Gabriel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gbeloso&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
